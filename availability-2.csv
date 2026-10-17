@@ -1,0 +1,8 @@
+date,start,end,status
+# Add a row for each stretch you're free (open) and each appointment (booked).
+# Booked rows block out that time. Example booked row:
+# 2026-10-31,2:15 PM,2:45 PM,booked
+2026-10-30,9:00 AM,12:00 PM,open
+2026-10-30,2:00 PM,11:00 PM,open
+2026-10-31,9:00 AM,10:00 PM,open
+2026-11-01,9:00 AM,11:00 PM,open
