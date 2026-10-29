@@ -1,14 +1,18 @@
-date,start,end,status
-# Add a row for each stretch you're free (open) and each appointment (booked).
-# Booked rows block out that time. Example booked row:
-# 2026-10-31,2:15 PM,2:45 PM,booked
+date,start,end,status,note
+# open = times you're free, booked = appointments. The note column is just for you.
 2026-10-30,9:00 AM,12:00 PM,open
 2026-10-30,2:00 PM,11:00 PM,open
 2026-10-31,9:00 AM,10:00 PM,open
 2026-11-01,9:00 AM,11:00 PM,open
-2026-10-31,8:30 PM,8:50 PM,booked
-2026-10-30,10:00 PM,10:15 PM,booked
-2026-10-31,7:30 PM,7:55 PM,booked
-2026-10-31,8:00 PM,8:10 PM,booked
+2026-10-30,10:00 PM,10:15 PM,booked,moved from 7pm
 2026-10-31,3:00 PM,3:25 PM,booked
-2026-10-31,8:10 PM,8:25 PM,booked
+2026-10-31,7:00 PM,7:15 PM,booked,apocalypse survivor - blood
+2026-10-31,7:30 PM,7:55 PM,booked,genie face paint
+2026-10-31,8:00 PM,8:15 PM,booked,eren under eye
+2026-10-31,8:15 PM,8:30 PM,booked,choso face paint
+2026-10-31,8:30 PM,8:45 PM,booked,mermaid scales + glitter
+2026-10-31,8:45 PM,9:00 PM,booked,burglary small scratches
+2026-10-31,9:00 PM,9:35 PM,booked,gamora
+2026-10-31,7:00 PM,7:15 PM,booked,apocalypse survivor
+2026-10-31,8:50 PM,9:00 PM,booked,burglary scratches
+2026-10-31,9:00 PM,9:35 PM,booked,gamora
